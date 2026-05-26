@@ -53,14 +53,6 @@ The companies that win in agentic B2B commerce will not win because they deploye
 
 ---
 
-## Related Projects
-
-- [`stablecoin-b2b-sourcing`](https://github.com/cmahadeo77/stablecoin-b2b-sourcing) — USDC escrow payment system for cross-border ingredient sourcing
-- [`formulation-sourcing-automation`](https://github.com/cmahadeo77/formulation-sourcing-automation) — Market scanner + INCI formula generator + automated COA validation
-- [`ingredient-sourcing-agent`](https://github.com/cmahadeo77/ingredient-sourcing-agent) — Multi-agent sourcing system
-
----
-
 ## Contact
 
 Chris Mahadeo — [arikina.com](https://www.arikina.com) · [chris@arikina.com](mailto:chris@arikina.com)
